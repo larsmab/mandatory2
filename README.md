@@ -1,7 +1,5 @@
 # matmek4270-mandatory2
 
-Change badge links below to reflect you own fork and then delete this line!
-
 
 [![MAT-MEK4270 mandatory 2](https://github.com/larsmab/mandatory2/actions/workflows/main.yml/badge.svg)](https://github.com/larsmab/mandatory2/actions/workflows/main.yml)
 
